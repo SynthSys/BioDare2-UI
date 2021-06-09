@@ -40,7 +40,7 @@
     "bd2-ngx-heatmap": "^1.1.1",
     "bd2-ngx-polarplot": "^1.11.0",
     "bootstrap": "^4.5.2",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "file-saver": "^2.0.2",
     "ng2-charts": "^2.4.1",
     "ngx-bootstrap": "^6.1.0",
